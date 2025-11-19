@@ -1,0 +1,18 @@
+Windows Fundamentals 1–3 Completed
+
+These labs gave me practical experience managing real Windows environments, preparing me for IT and cybersecurity roles.
+
+User & Group Management:
+Created and managed local and domain user accounts, assigned permissions, and implemented group policies. Labs included configuring access rights to files and folders and enforcing password policies.
+
+Process & Performance Monitoring:
+Leveraged Task Manager, Resource Monitor, and Performance Monitor to track CPU, memory, and disk usage. Identified resource heavy processes, diagnosed system bottlenecks, and practiced resolving performance issues.
+
+Networking & Security:
+Configured Windows Firewall rules, tested network connectivity using ping, ipconfig, and tracert. Secured shared folders with NTFS permissions and 
+practiced basic troubleshooting of network and permission related issues.
+
+Automation & Scripting:
+Developed PowerShell scripts to automate tasks such as system backups, log parsing, and user account management. Scheduled tasks using Task Scheduler and practiced monitoring logs for errors and anomalies.
+
+These labs reinforced my ability to efficiently manage Windows systems, troubleshoot performance and security issues, and automate repetitive tasks. These are essential skills for IT support and cybersecurity careers.
