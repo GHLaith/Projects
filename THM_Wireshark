@@ -1,0 +1,19 @@
+Just completed the Wireshark: The Basics 
+This module gave me a strong foundation in Wireshark and hands-on experience analyzing real network traffic. The labs were especially valuable, covering the following:
+
+- Packet Capturing & Interface Monitoring 
+Learned how to capture live traffic, navigate the Wireshark interface, and break down packet structure using the packet list, details, and bytes views.
+
+ - Protocol Analysis
+Worked with common protocols like HTTP, DNS, TCP, UDP, ARP, and ICMP, examining how devices communicate and how protocol fields reveal what’s happening on the network.
+
+- PCAP Investigations
+Analyzed several PCAP files to trace communication paths, follow TCP streams, identify request/response pairs, and spot unusual traffic patterns.
+
+- Filtering & Searching
+Used display filters to isolate specific traffic (e.g., http, tcp.flags.syn == 1, dns.qry.name) and learned how to quickly extract useful insights from busy captures.
+
+- Traffic Behavior Recognition
+Practiced spotting normal vs. abnormal traffic, connection attempts, handshake behavior, latency indicators, and potential signs of malicious activity.
+
+Overall, this room was an excellent deep dive into the fundamentals of network analysis and one of the more fun labs I've participated in.
