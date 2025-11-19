@@ -1,0 +1,6 @@
+I just completed the Attacking Kerberos room on TryHackMe.
+
+This lab focused on exploiting weaknesses in the Kerberos authentication protocol within Active Directory environments. 
+
+I gained hands-on experience performing techniques such as AS-REP roasting, Kerberoasting, ticket enumeration, and analyzing service principal configurations to identify credential exposure pathways.
+This room provided a deeper understanding of how attackers abuse the Ticket Granting Service (TGS) to obtain hashes, escalate privileges, and move laterally across a Windows domain.
