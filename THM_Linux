@@ -1,0 +1,7 @@
+Linux Fundamentals 2 & 3 have officially been completed, much more info that I had to dive into compared to "Linux Fundamentals 1". Over these courses, 
+I went beyond the basics into system management, shell scripting, and automation.
+- Managed users, permissions, and processes to keep systems secure and stable.
+- Automated tasks with bash scripts and cron jobs, boosting efficiency.
+- Mastered file search/manipulation with grep, awk, and sed.
+- Monitored system performance and logs to troubleshoot issues effectively.
+Hands on labs were key from tweaking file permissions to scheduling automated backups, I got to apply theory in real Linux environments.
