@@ -1,0 +1,19 @@
+Finished the Windows Privilege Escalation room on THM another very lab heavy room and packed with real-world vectors. Focused on enumeration, validation, and safe proof-of-concept confirmation. Below are the highlights of the rooms lab.
+
+ -Service misconfigurations: weak service permissions and unquoted service paths that allow hijacking of service binaries.
+
+ -File & ACL weaknesses: world-writable files, sensitive files with lax ACLs, and credential disclosure from config files.
+
+ -Scheduled tasks & startup items: abused task definitions and autoruns that execute with elevated privileges.
+
+ -DLL hijacking & binary planting: understanding how improper DLL search order or replaceable binaries create escalation paths.
+
+ -Credential reuse & plaintext secrets: locating stored credentials (configs, scripts, registry) and validating lateral privilege implications.
+
+ -Token impersonation & session abuse: identifying opportunities to escalate using impersonation and delegation artifacts.
+
+ -Misconfigured services (weak DACLs / privileged groups): permission misassignments that elevate service control.
+
+ -Privilege-aware persistence & cleanup: documenting PoCs and ensuring safe, non-persistent validation for reporting.
+
+ -Tools & techniques referenced in the lab, enumeration, first tools like WinPEAS/PowerUp, Sysinternals utilities for system insight, and manual analysis of services, scheduled tasks, and ACLs to validate findings.
