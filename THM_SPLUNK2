@@ -1,0 +1,19 @@
+Just completed the Splunk 2 room on TryHackMe!
+Part of the Blue Primer series, this room is built around Boss of the SOC (BOTS) v2, Splunk’s real-world blue-team competition. It puts you in the role of a SOC analyst and challenges you to investigate a series of incidents using Splunk.
+
+Here’s what I worked through:
+
+🔹 Advanced SPL Search Techniques
+ Used deeper SPL commands like tstats, spath, rex, eval, join, and lookup to correlate events and extract hidden indicators from large datasets.
+
+🔹 Real Incident Investigation Scenarios
+ Analyzed logs tied to phishing attempts, malware activity, suspicious authentication patterns, network anomalies, and host-based alerts.
+
+🔹 Threat Hunting Across Multiple Data Sources
+ Investigated endpoint logs, Windows event logs, proxy logs, IDS alerts, and email metadata to trace attacker movement and uncover the full attack chain.
+
+🔹 Pivoting Through Evidence
+ Followed breadcrumbs, IP addresses, hashes, domains, usernames to build timelines and identify attacker behavior and objectives.
+
+🔹 Security Intelligence Application
+ Mapped findings to common attacker TTPs, recognized IOC patterns, and used Splunk dashboards to visualize the scope of the attacks.
