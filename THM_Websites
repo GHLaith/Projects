@@ -1,0 +1,3 @@
+Finished "How Websites Work" on THM. You can’t exploit what you don’t understand so I traced requests, 
+inspected the DOM, and ran a safe HTML injection in the lab. 
+Now I’m focused on fixes like validation, encoding, and CSP.
