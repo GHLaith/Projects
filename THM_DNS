@@ -1,0 +1,2 @@
+I dug into how web requests and responses actually work, headers, methods (GET/POST/PUT/DELETE), status codes, and how browsers and servers communicate. 
+The hands on emulator let me build requests, inspect headers like Host and User Agent, and see real response codes in action. Feeling more confident about how web apps operate and how to test them.
