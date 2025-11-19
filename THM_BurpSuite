@@ -1,0 +1,6 @@
+Finally completed “Burp Suite: The Basics” on THM. 
+Just wrapped up a very hands-on introduction to Burp Suite, one of the most essential tools in web application penetration testing. This lab focused room walked me through real attack simulations, intercepting and modifying HTTP requests, analyzing site maps, replaying requests with repeater, and fuzzing parameters using Intruder.
+
+Each exercise showed how Burp provides full visibility into web traffic and helps identify vulnerabilities like parameter tampering, XSS, and weak session management. I learned how to set up Burp as a proxy, trust certificates for HTTPS interception, and test requests in a controlled environment to see how small changes can lead to big security issues.
+
+This matters because Burp Suite gives security testers and developers deep insight into how web apps actually behave behind the scenes. It’s an indispensable skill for ethical hackers combining manual testing, automation, and smart traffic analysis to secure applications before attackers can exploit them.
