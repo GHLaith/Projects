@@ -1,0 +1,7 @@
+In this lab exercise, I learned how to block malicious traffic while allowing legitimate traffic:
+
+- Malicious packets were marked red, legitimate ones green
+- The target protocol to block was port 80
+- Configured the firewall to prevent malicious packets from reaching the web server at 203.0.110.1
+
+It was a great way to see stateful vs. stateless traffic filtering in action and understand how firewalls protect networks in real scenarios.
