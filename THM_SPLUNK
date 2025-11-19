@@ -1,0 +1,19 @@
+I have completed the Splunk: The Basics room on TryHackMe.
+This module introduced how SOC analysts use Splunk for real log investigations and threat detection. 
+
+The hands-on labs walked me through:
+🔹 Navigating the Splunk Interface
+
+ Learned how to explore dashboards, search logs, and interpret event data efficiently.
+
+🔹 SPL Search Fundamentals
+ Practiced core Splunk Search Processing Language (SPL) commands to filter, parse, and analyze logs (stats, table, fields, rex, etc.).
+
+🔹 Log Investigation Workflows
+ Worked through simulated SOC tasks, pivoting between logs, correlating events, and identifying suspicious activity across different data sources.
+
+🔹 Security Use Cases
+ Analyzed authentication logs, firewall events, and endpoint alerts to spot anomalies, bruteforce attempts, and indicators of compromise.
+
+🔹 Alerts & Dashboards Basics
+ Explored how dashboards visualize log patterns and how alerts are triggered to notify analysts of potential threats.
