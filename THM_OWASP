@@ -1,0 +1,5 @@
+TryHackMe OWASP Top 10 room, which is an intensely lab-heavy exploration of the top ten web security threats. This one took a while and involved a lot of practical exercises that taught me how to find and exploit vulnerabilities such as SQLi, XSS, CSRF, IDOR, broken auth, and more. I also learned how to validate fixes and create reproducible evidence.
+
+The practical workflow—discover → exploit → confirm → document and the way minor input or configuration errors have a significant real impact were what I found most interesting. These labs reaffirmed the importance of server-side validation, secure defaults, and appropriate session/access controls.
+
+ The next stage is to use these methods in controlled settings and assist development teams in prioritizing fixes by providing transparent, repeatable proof-of-concept examples.
