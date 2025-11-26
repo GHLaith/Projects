@@ -1,0 +1,5 @@
+🛡️ Just completed the “SOC L1 Alert Triage” room on TryHackMe!
+
+This module focused on developing a structured approach to triaging SOC alerts, reviewing event data, validating true vs. false positives, and prioritizing incidents based on impact and severity. 
+
+I explored how L1 analysts use log analysis, correlation, threat intel, and escalation workflows to handle alerts efficiently and maintain situational awareness across an environment.
