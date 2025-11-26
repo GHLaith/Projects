@@ -1,0 +1,7 @@
+Just completed the Systems as Attack Vectors room on THM.
+
+This module covered how attackers exploit vulnerable, misconfigured, or exposed systems to gain footholds in an environment.
+
+I explored common system level attack vectors such as unpatched services, weak configurations, insecure protocols, and privilege escalation paths.
+
+The room also highlighted how defenders mitigate these threats through hardening, patch management, log monitoring, vulnerability assessments, and secure configuration baselines.
